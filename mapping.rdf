@@ -1,0 +1,159 @@
+@prefix : <http://www.example.com/examples/2015/3/PerseidsMappingDemo#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.example.com/examples/2015/3/PerseidsMappingDemo> .
+
+<http://www.example.com/examples/2015/3/PerseidsMappingDemo> rdf:type owl:Ontology ;
+                                                             
+                                                             owl:imports <http://cirssweb.lis.illinois.edu/DataCon/SAM/0.9.9> ,
+                                                                         <http://lawd.info/ontology/1.0/> ,
+                                                                         <http://purl.org/NET/c4dm/event.owl> ,
+                                                                         <http://www.loc.gov/standards/mads/rdf/v1.rdf> .
+
+
+#################################################################
+#
+#    Annotation properties
+#
+#################################################################
+
+
+###  http://www.loc.gov/mads/rdf/v1#isIdentifiedByAuthority
+
+<http://www.loc.gov/mads/rdf/v1#isIdentifiedByAuthority> rdf:type owl:AnnotationProperty .
+
+
+
+
+
+#################################################################
+#
+#    Object Properties
+#
+#################################################################
+
+
+###  http://lawd.info/ontology/reusedFrom
+
+<http://lawd.info/ontology/reusedFrom> rdfs:subPropertyOf <http://www.w3.org/ns/oa#hasBody> .
+
+
+
+###  http://lawd.info/ontology/reusedIn
+
+<http://lawd.info/ontology/reusedIn> rdfs:subPropertyOf <http://www.w3.org/ns/oa#hasTarget> .
+
+
+
+###  http://purl.org/NET/c4dm/event.owl#agent
+
+<http://purl.org/NET/c4dm/event.owl#agent> rdfs:subPropertyOf <http://www.w3.org/ns/prov#wasAssociatedWith> .
+
+
+
+
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+
+###  http://lawd.info/ontology/WrittenWork
+
+<http://lawd.info/ontology/WrittenWork> rdfs:subClassOf <http://cirssweb.lis.illinois.edu/DataCon/SAM/SymbolStructure> .
+
+
+
+###  http://www.example.com/examples/2015/3/PerseidsMappingDemo#BertiObservation
+
+:BertiObservation rdf:type owl:Class ;
+                  
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty <http://www.w3.org/ns/prov#qualifiedAssociation> ;
+                                        owl:hasValue :bertiObs
+                                      ] ;
+                  
+                  rdfs:subClassOf <http://cirssweb.lis.illinois.edu/DataCon/SAM/SystematicAssertion> ,
+                                  <http://lawd.info/ontology/Observation> ,
+                                  [ rdf:type owl:Restriction ;
+                                    owl:onProperty <http://purl.org/NET/c4dm/event.owl#agent> ;
+                                    owl:hasValue :mberti
+                                  ] ;
+                  
+                  rdfs:comment "Instances are observation activities where Monica Berti is the observing agent." .
+
+
+
+###  http://www.loc.gov/mads/rdf/v1#RWO
+
+<http://www.loc.gov/mads/rdf/v1#RWO> rdfs:subClassOf rdf:Seq .
+
+
+
+
+
+#################################################################
+#
+#    Individuals
+#
+#################################################################
+
+
+###  http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:3.6%40Ἴστρος%5B1%5D-συκοφάνται%5B1%5D
+
+<http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:3.6%40Ἴστρος%5B1%5D-συκοφάνται%5B1%5D> rdf:type <http://lawd.info/ontology/TextPart> ,
+                                                                                                                                owl:NamedIndividual ;
+                                                                                                                       
+                                                                                                                       rdfs:label "Text part 1" .
+
+
+
+###  http://data.perseus.org/collections/urn:cite:perseus:lci.2
+
+<http://data.perseus.org/collections/urn:cite:perseus:lci.2> rdf:type <http://lawd.info/ontology/WrittenWork> ,
+                                                                      owl:NamedIndividual ;
+                                                             
+                                                             rdfs:label "Lost Work lci.2" .
+
+
+
+###  http://www.example.com/examples/2015/3/PerseidsMappingDemo#bertiObs
+
+:bertiObs rdf:type <http://lawd.info/ontology/ObserverRoleAssociation> ,
+                   owl:NamedIndividual ;
+          
+          rdfs:comment "Monica Berti's observer role Association" ;
+          
+          <http://www.w3.org/ns/prov#agent> :mberti .
+
+
+
+###  http://www.example.com/examples/2015/3/PerseidsMappingDemo#mberti
+
+:mberti rdf:type <http://lawd.info/ontology/Person> ,
+                 owl:NamedIndividual ;
+        
+        <http://www.loc.gov/mads/rdf/v1#isIdentifiedByAuthority> <http://id.loc.gov/authorities/names/no2006026569> .
+
+
+
+###  http://www.example.com/examples/2015/3/PerseidsMappingDemo#textreuse1
+
+:textreuse1 rdf:type <http://lawd.info/ontology/TextReuse> ,
+                     :BertiObservation ,
+                     owl:NamedIndividual ;
+            
+            <http://lawd.info/ontology/reusedIn> <http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:3.6%40Ἴστρος%5B1%5D-συκοφάνται%5B1%5D> ;
+            
+            <http://lawd.info/ontology/reusedFrom> <http://data.perseus.org/collections/urn:cite:perseus:lci.2> .
+
+
+
+
+###  Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net
+

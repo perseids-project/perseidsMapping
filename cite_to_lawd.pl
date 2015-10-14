@@ -118,7 +118,7 @@ for (my $i=0; $i<@reuse.length; $i++) {
         print <<"EOS";
 <$collection.$id/oa> a oa:Annotation;
   oa:hasBody <$collection.$id>;
-  oa:hasTarget <$reuse[$i]{'reuseFrom'}>.
+  oa:hasTarget <$reuse[$i]{'reuseIn'}>.
 
 EOS
     }
@@ -191,6 +191,6 @@ sub escapeUrn {
 sub printUsage {
     my $error = shift;
     print "Error: $error\n";
-    print "Usage: $0 <input file> <cite collection urn> <creator> <nickname> [1 to print OA]\n";
+    print "Usage: $0 <input file> <cite collection urn> <creator> <lang> [1 to print OA]\n";
     exit 1;
 }

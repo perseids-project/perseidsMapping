@@ -5,810 +5,810 @@
 
 <http://lawd.info/ontology/TextReuse> rdfs:subPropertyOf <http://www.w3.org/ns/oa#hasBody> .
 
-<urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> rdf:type <http://lawd.info/ontology/ObserverRoleAssociation>; 
+<urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> rdf:type <http://lawd.info/ontology/ObserverRoleAssociation>; 
   <http://www.w3.org/ns/prov#agent> <http://id.loc.gov/authorities/names/no2006026569>.
 
 <http://id.loc.gov/authorities/names/no2006026569> rdf:type <http://lawd.info/ontology/Person>.
 
 <urn:cite:ogl:ahri.1/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.1>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.71%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%B1%CE%AF%255B1%255D-9.71%40%CE%BA%CE%BB%CE%B9%CF%83%CE%AF%CE%B1%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%B1%CE%AF%255B1%255D-1.5%40%CE%BA%CE%BB%CE%B9%CF%83%CE%AF%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.1> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%B1%CE%AF%255B1%255D-1.5%40%CE%BA%CE%BB%CE%B9%CF%83%CE%AF%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.71%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%B1%CE%AF%255B1%255D-9.71%40%CE%BA%CE%BB%CE%B9%CF%83%CE%AF%CE%B1%CE%B9%255B1%255D> ;
     rdf:value "πλεῖαί τοι οἴνου κλισίαι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.2/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.2>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.70%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-9.70%40%CF%84%CE%BF%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-1.5%40%CF%84%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.2> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-1.5%40%CF%84%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.70%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-9.70%40%CF%84%CE%BF%CE%B9%255B1%255D> ;
     rdf:value "δαίνυ δαῖτα γέρουσι ἔοικέ τοι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.3/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.3>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.475%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B1%255D-7.475%40%CE%B8%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-1.5%40%CF%84%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.3> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.5%40%CE%B4%CE%B1%CE%AF%CE%BD%CF%85%255B1%255D-1.5%40%CF%84%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.475%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B1%255D-7.475%40%CE%B8%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1%CE%BD%255B1%255D> ;
     rdf:value "δαῖτα θάλειαν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.4/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.4>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.334%40%CF%87%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B5%255B1%255D-1.334%40%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.6%40%CF%87%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B5%255B1%255D-1.6%40%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.4> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.6%40%CF%87%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B5%255B1%255D-1.6%40%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.334%40%CF%87%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B5%255B1%255D-1.334%40%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%B9%255B1%255D> ;
     rdf:value "χαίρετε, κήρυκες, Διὸς ἄγγελοι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.5/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.5>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.15%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D-1.15%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.5> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.15%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D-1.15%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D> ;
     rdf:value "νώτοισι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.6/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.6>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.15%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D-1.15%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.6> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.15%40%CE%BD%CF%8E%CF%84%CE%BF%CE%B9%CF%83%CE%B9%255B1%255D-1.15%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321%40%CE%B3%CE%AD%CF%81%CE%B1%CE%B9%CF%81%CE%B5%CE%BD%255B1%255D> ;
     rdf:value "γέραιρεν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.7/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.7>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.262%40%E1%BC%80%CF%81%CE%BD%E1%BF%B6%CE%BD%255B1%255D-24.262%40%E1%BC%81%CF%81%CF%80%CE%B1%CE%BA%CF%84%E1%BF%86%CF%81%CE%B5%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%E1%BC%80%CF%81%CE%BD%E1%BF%B6%CE%BD%255B1%255D-1.16%40%E1%BC%81%CF%81%CF%80%CE%B1%CE%BA%CF%84%E1%BF%86%CF%81%CE%B5%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.7> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%E1%BC%80%CF%81%CE%BD%E1%BF%B6%CE%BD%255B1%255D-1.16%40%E1%BC%81%CF%81%CF%80%CE%B1%CE%BA%CF%84%E1%BF%86%CF%81%CE%B5%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.262%40%E1%BC%80%CF%81%CE%BD%E1%BF%B6%CE%BD%255B1%255D-24.262%40%E1%BC%81%CF%81%CF%80%CE%B1%CE%BA%CF%84%E1%BF%86%CF%81%CE%B5%CF%82%255B1%255D> ;
     rdf:value "ἀρνῶν ἠδ᾽ ἐρίφων ἐπιδήμιοι ἁρπακτῆρες"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.8/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.8>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.360%40%E1%BC%99%CE%BB%CE%BB%CE%AE%CF%83%CF%80%CE%BF%CE%BD%CF%84%CE%BF%CE%BD%255B1%255D-9.360%40%E1%BC%B0%CF%87%CE%B8%CF%85%CF%8C%CE%B5%CE%BD%CF%84%CE%B1%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%E1%BC%99%CE%BB%CE%BB%CE%AE%CF%83%CF%80%CE%BF%CE%BD%CF%84%CE%BF%CE%BD%255B1%255D-1.16%40%CF%80%CF%81%CE%BF%CF%83%CE%B1%CE%B3%CE%BF%CF%81%CE%B5%CF%8D%CF%89%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.8> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%E1%BC%99%CE%BB%CE%BB%CE%AE%CF%83%CF%80%CE%BF%CE%BD%CF%84%CE%BF%CE%BD%255B1%255D-1.16%40%CF%80%CF%81%CE%BF%CF%83%CE%B1%CE%B3%CE%BF%CF%81%CE%B5%CF%8D%CF%89%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.360%40%E1%BC%99%CE%BB%CE%BB%CE%AE%CF%83%CF%80%CE%BF%CE%BD%CF%84%CE%BF%CE%BD%255B1%255D-9.360%40%E1%BC%B0%CF%87%CE%B8%CF%85%CF%8C%CE%B5%CE%BD%CF%84%CE%B1%255B1%255D> ;
     rdf:value "Ἑλλήσποντον ἰχθυόεντα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.9/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.9>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:19.167>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%E1%BD%83%CF%82%255B1%255D-1.17%40%E1%BC%90%CE%B4%CF%89%CE%B4%E1%BF%86%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.9> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%E1%BD%83%CF%82%255B1%255D-1.17%40%E1%BC%90%CE%B4%CF%89%CE%B4%E1%BF%86%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:19.167> ;
     rdf:value "ὃς δέ κ᾽ ἀνὴρ οἴνοιο κορεσσάμενος καὶ ἐδωδῆς"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.10/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.10>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.469>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%CE%B1%E1%BD%90%CF%84%E1%BD%B0%CF%81%255B1%255D-1.16%40%E1%BC%95%CE%BD%CF%84%CE%BF%255B1%255D>.
 
 <urn:cite:ogl:ahri.10> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.16%40%CE%B1%E1%BD%90%CF%84%E1%BD%B0%CF%81%255B1%255D-1.16%40%E1%BC%95%CE%BD%CF%84%CE%BF%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.469> ;
     rdf:value "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.11/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.11>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.639%40%CE%BF%E1%BC%B4%CE%BD%E1%BF%B3%255B1%255D-11.639%40%CE%A0%CF%81%CE%B1%CE%BC%CE%BD%CE%B5%CE%AF%E1%BF%B3%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CF%84%E1%BD%B8%CE%BD%255B2%255D-1.17%40%CE%A0%CF%81%CE%AC%CE%BC%CE%BD%CE%B5%CE%B9%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.11> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CF%84%E1%BD%B8%CE%BD%255B2%255D-1.17%40%CE%A0%CF%81%CE%AC%CE%BC%CE%BD%CE%B5%CE%B9%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.639%40%CE%BF%E1%BC%B4%CE%BD%E1%BF%B3%255B1%255D-11.639%40%CE%A0%CF%81%CE%B1%CE%BC%CE%BD%CE%B5%CE%AF%E1%BF%B3%255B1%255D> ;
     rdf:value "οἶνον Πράμνειον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.12/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.12>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%40%CE%BF%E1%BC%B6%CE%BD%CE%BF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CE%BF%E1%BF%A6%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.12> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CE%BF%E1%BF%A6%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%40%CE%BF%E1%BC%B6%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     rdf:value "οἶνον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.13/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.13>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.265%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CF%8E%CF%83%E1%BF%83%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CE%BF%E1%BF%A6%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.13> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CE%BF%E1%BF%A6%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.265%40%E1%BC%80%CF%80%CE%BF%CE%B3%CF%85%CE%B9%CF%8E%CF%83%E1%BF%83%CF%82%255B1%255D> ;
     rdf:value "ἀπογυιοῦν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.14/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.14>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.266%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.14> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.266%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D> ;
     rdf:value "ἀπογυιοῦν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.15/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.15>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%402.58%40%CE%BC%CE%AD%CE%BD%E1%BE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.15> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%402.58%40%CE%BC%CE%AD%CE%BD%E1%BE%BD%255B1%255D> ;
     rdf:value "μενεῖν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.16/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.16>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2.260%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.16> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2.260%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D> ;
     rdf:value "πιεῖν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.17/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.17>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.259%40%CF%83%CF%80%CE%B5%CE%AF%CF%83%E1%BF%83%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.17> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.259%40%CF%83%CF%80%CE%B5%CE%AF%CF%83%E1%BF%83%CF%82%255B1%255D> ;
     rdf:value "σπείσαντα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.18/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.18>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.263%40%E1%BC%9D%CE%BA%CF%84%CF%89%CF%81%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.18> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.263%40%E1%BC%9D%CE%BA%CF%84%CF%89%CF%81%255B1%255D> ;
     rdf:value "Ἕκτορος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.19/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.19>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.254%40%CF%84%CE%AD%CE%BA%CE%BD%CE%BF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.19> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.254%40%CF%84%CE%AD%CE%BA%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     rdf:value "Ἕκτορος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.20/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.20>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%40%CE%BC%E1%BF%86%CF%84%CE%B5%CF%81%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.20> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.264%40%CE%BC%E1%BF%86%CF%84%CE%B5%CF%81%255B1%255D> ;
     rdf:value "Ἑκάβη"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.21/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.21>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.266%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.21> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.266%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D> ;
     rdf:value "καθῃμαγμένος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.22/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.22>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.268%40%CE%BB%CF%8D%CE%B8%CF%81%E1%BF%B3%255B1%255D-6.268%40%CF%80%CE%B5%CF%80%CE%B1%CE%BB%CE%B1%CE%B3%CE%BC%CE%AD%CE%BD%CE%BF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.22> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.268%40%CE%BB%CF%8D%CE%B8%CF%81%E1%BF%B3%255B1%255D-6.268%40%CF%80%CE%B5%CF%80%CE%B1%CE%BB%CE%B1%CE%B3%CE%BC%CE%AD%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     rdf:value "καθῃμαγμένος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.23/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.23>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.268%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.23> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BA%CE%B1%CE%AF%CF%84%CE%BF%CE%B9%255B1%255D-1.17%40%E1%BC%A1%CE%B3%CE%B5%E1%BF%96%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.268%40%E1%BC%80%CE%BD%CE%AF%CF%80%CF%84%CE%BF%CE%B9%CF%83%CE%B9%CE%BD%255B1%255D> ;
     rdf:value "καθῃμαγμένος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.24/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.24>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.5%40%CF%83%E1%BD%BA%255B1%255D-14.5%40%CE%BA%CE%B1%CE%B8%CE%AE%CE%BC%CE%B5%CE%BD%CE%BF%CF%83%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CF%83%E1%BD%BA%255B1%255D-1.17%40%CE%BA%CE%B1%CE%B8%CE%AE%CE%BC%CE%B5%CE%BD%CE%BF%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.24> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CF%83%E1%BD%BA%255B1%255D-1.17%40%CE%BA%CE%B1%CE%B8%CE%AE%CE%BC%CE%B5%CE%BD%CE%BF%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.5%40%CF%83%E1%BD%BA%255B1%255D-14.5%40%CE%BA%CE%B1%CE%B8%CE%AE%CE%BC%CE%B5%CE%BD%CE%BF%CF%83%255B1%255D> ;
     rdf:value "σὺ μέν πῖνε καθήμενος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.25/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.25>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.630%40%E1%BC%90%CF%80%E1%BD%B6%255B1%255D-11.630%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%E1%BC%90%CF%80%E1%BD%B6%255B1%255D-1.17%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.25> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%E1%BC%90%CF%80%E1%BD%B6%255B1%255D-1.17%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.630%40%E1%BC%90%CF%80%E1%BD%B6%255B1%255D-11.630%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D> ;
     rdf:value "ἐπὶ δὲ κρόμυον ποτοῦ ὄψον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.26/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.26>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.203%40%CE%B6%CF%89%CF%81%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD%255B1%255D-9.203%40%CE%BA%CE%AD%CF%81%CE%B1%CE%B9%CE%B5%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BF%E1%BD%90%CE%BA%255B1%255D-1.17%40%CE%B4%CE%B9%CE%AD%CF%83%CF%84%CE%B5%CE%B9%CE%BB%CE%B5%255B1%255D>.
 
 <urn:cite:ogl:ahri.26> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.17%40%CE%BF%E1%BD%90%CE%BA%255B1%255D-1.17%40%CE%B4%CE%B9%CE%AD%CF%83%CF%84%CE%B5%CE%B9%CE%BB%CE%B5%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.203%40%CE%B6%CF%89%CF%81%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD%255B1%255D-9.203%40%CE%BA%CE%AD%CF%81%CE%B1%CE%B9%CE%B5%255B1%255D> ;
     rdf:value "ζωρότερον κεραίρειν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.27/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.27>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.119>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%80%CE%BB%CE%BB%255B1%255D-1.18%40%CF%80%CE%B9%CE%B8%CE%AE%CF%83%CE%B1%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.27> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%80%CE%BB%CE%BB%255B1%255D-1.18%40%CF%80%CE%B9%CE%B8%CE%AE%CF%83%CE%B1%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.119> ;
     rdf:value "ἀλλ᾽ ἐπεὶ ἀασάμην φρεσὶ λευγαλέῃσι πιθήσας"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.28/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.28>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.75%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%B5%E1%BD%BA%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.28> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.75%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%B5%E1%BD%BA%CF%82%255B1%255D> ;
     rdf:value "Ἀχιλλέως"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.29/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.29>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.83%40%CE%B2%CE%BF%CF%85%CE%BB%CE%B7%CF%86%CF%8C%CF%81%CE%B5%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.29> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.83%40%CE%B2%CE%BF%CF%85%CE%BB%CE%B7%CF%86%CF%8C%CF%81%CE%B5%255B1%255D> ;
     rdf:value "βουλεύεσθαι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.30/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.30>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.84%40%E1%BD%91%CF%80%CE%AF%CF%83%CF%87%CE%B5%CE%BF%255B1%255D-20.84%40%CE%BF%E1%BC%B0%CE%BD%CE%BF%CF%80%CE%BF%CF%84%CE%AC%CE%B6%CF%89%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.30> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B5%E1%BF%96%255B1%255D-1.18%40%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BF%CE%BB%CE%BB%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:20.84%40%E1%BD%91%CF%80%CE%AF%CF%83%CF%87%CE%B5%CE%BF%255B1%255D-20.84%40%CE%BF%E1%BC%B0%CE%BD%CE%BF%CF%80%CE%BF%CF%84%CE%AC%CE%B6%CF%89%CE%BD%255B1%255D> ;
     rdf:value "ὑπέσχετο οἰνοποτάζων"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.31/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.31>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.225%40%CE%BF%E1%BC%B0%CE%BD%CE%BF%CE%B2%CE%B1%CF%81%CE%AD%CF%82%255B1%255D-1.225%40%E1%BC%94%CF%87%CF%89%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%CE%BA%CE%B1%E1%BD%B6%255B19%255D-1.18%40%E1%BC%94%CF%87%CF%89%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.31> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.18%40%CE%BA%CE%B1%E1%BD%B6%255B19%255D-1.18%40%E1%BC%94%CF%87%CF%89%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.225%40%CE%BF%E1%BC%B0%CE%BD%CE%BF%CE%B2%CE%B1%CF%81%CE%AD%CF%82%255B1%255D-1.225%40%E1%BC%94%CF%87%CF%89%CE%BD%255B1%255D> ;
     rdf:value "οἰνοβαρές, κυνὸς ὄμματ᾽ ἔχων"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.32/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.32>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.124>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BA%CE%B1%E1%BD%B6%255B2%255D-1.19%40%E1%BC%84%CF%81%CE%B9%CF%83%CF%84%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.32> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BA%CE%B1%E1%BD%B6%255B2%255D-1.19%40%E1%BC%84%CF%81%CE%B9%CF%83%CF%84%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.124> ;
     rdf:value "ἐσσυμένως ἐπένοντο καὶ ἐντύνοντ᾽ ἄριστον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.33/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.33>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.53%40%CE%BF%E1%BC%B3%255B1%255D-8.53%40%E1%BC%95%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BF%E1%BC%B3%255B1%255D-1.19%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D>.
 
 <urn:cite:ogl:ahri.33> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BF%E1%BC%B3%255B1%255D-1.19%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.53%40%CE%BF%E1%BC%B3%255B1%255D-8.53%40%E1%BC%95%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D> ;
     rdf:value "οἳ δ᾽ ἄρα δεῖπνον ἕλοντο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.34/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.34>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.54%40%E1%BC%80%CF%80%E1%BD%B8%255B1%255D-8.53%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BF%E1%BC%B3%255B1%255D-1.19%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D>.
 
 <urn:cite:ogl:ahri.34> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.19%40%CE%BF%E1%BC%B3%255B1%255D-1.19%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.54%40%E1%BC%80%CF%80%E1%BD%B8%255B1%255D-8.53%40%CE%B8%CF%89%CF%81%CE%AE%CF%83%CF%83%CE%BF%CE%BD%CF%84%CE%BF%255B1%255D> ;
     rdf:value "ἀπὸ δ᾽ αὐτοῦ θωρήσσοντο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.35/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.35>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.476>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.20%40%CF%84%E1%BF%B7%255B2%255D-1.20%40%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%255B2%255D>.
 
 <urn:cite:ogl:ahri.35> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.20%40%CF%84%E1%BF%B7%255B2%255D-1.20%40%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%255B2%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.476> ;
     rdf:value "ἔσθων καὶ πίνων, ἔτι καὶ παρέκειτο τράπεζα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.36/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.36>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.476>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.20%40%CF%84%E1%BF%B7%255B2%255D-1.20%40%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%255B3%255D>.
 
 <urn:cite:ogl:ahri.36> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.20%40%CF%84%E1%BF%B7%255B2%255D-1.20%40%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%255B3%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.476> ;
     rdf:value "ἔσθων καὶ πίνων ἔτι, καὶ παρέκειτο τράπεζα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.37/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.37>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.225>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CF%87%CE%B1%E1%BF%96%CF%81%E1%BE%BD%255B1%255D-1.21%40%E1%BC%90%CF%80%CE%B9%CE%B4%CE%B5%CF%85%CE%B5%E1%BF%96%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.37> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CF%87%CE%B1%E1%BF%96%CF%81%E1%BE%BD%255B1%255D-1.21%40%E1%BC%90%CF%80%CE%B9%CE%B4%CE%B5%CF%85%CE%B5%E1%BF%96%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.225> ;
     rdf:value "χαῖρ᾽ Ἀχιλεῦ, δαιτὸς μὲν ἐίσης οὐκ ἐπιδευεῖς"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.38/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.38>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.4%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.4%40%CE%BA%CF%8D%CE%BD%CE%B5%CF%83%CF%83%CE%B9%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.21%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B6%255D>.
 
 <urn:cite:ogl:ahri.38> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.21%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B6%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.4%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.4%40%CE%BA%CF%8D%CE%BD%CE%B5%CF%83%CF%83%CE%B9%CE%BD%255B1%255D> ;
     rdf:value "αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.39/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.39>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.5%40%CE%BF%E1%BC%B0%CF%89%CE%BD%CE%BF%E1%BF%96%CF%83%CE%AF%255B1%255D-1.5%40%CF%80%E1%BE%B6%CF%83%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.21%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B6%255D>.
 
 <urn:cite:ogl:ahri.39> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.21%40%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.21%40%CE%B4%CE%B1%E1%BF%96%CF%84%CE%B1%255B6%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.5%40%CE%BF%E1%BC%B0%CF%89%CE%BD%CE%BF%E1%BF%96%CF%83%CE%AF%255B1%255D-1.5%40%CF%80%E1%BE%B6%CF%83%CE%B9%255B1%255D> ;
     rdf:value "οἰωνοῖσί τε δαῖτα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.40/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.40>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.4%40%E1%BC%A6%255B1%255D-1.5%40%CE%BA%CF%85%CE%B2%CE%B9%CF%83%CF%84%E1%BE%B7%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.22%40%E1%BC%A6%255B2%255D-1.22%40%CE%BA%CF%85%CE%B2%CE%B9%CF%83%CF%84%E1%BE%B7%255B1%255D>.
 
 <urn:cite:ogl:ahri.40> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.22%40%E1%BC%A6%255B2%255D-1.22%40%CE%BA%CF%85%CE%B2%CE%B9%CF%83%CF%84%E1%BE%B7%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.4%40%E1%BC%A6%255B1%255D-1.5%40%CE%BA%CF%85%CE%B2%CE%B9%CF%83%CF%84%E1%BE%B7%255B1%255D> ;
     rdf:value "ἦ μάλ᾽ ἐλαφρὸς ἀνήρ ὃς ῥεῖα κυβιστᾷ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.41/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.41>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:16.747>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.22%40%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.22%40%CE%B4%CE%B9%CF%86%E1%BF%B6%CE%BD%CF%84%CE%B1%255B1%255D>.
 
 <urn:cite:ogl:ahri.41> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.22%40%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BD%BA%CF%82%255B1%255D-1.22%40%CE%B4%CE%B9%CF%86%E1%BF%B6%CE%BD%CF%84%CE%B1%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:16.747> ;
     rdf:value "πολλοὺς ἂν κορέσαι τήθεα διφῶντα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.42/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.42>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%E1%BC%90%CF%80%CE%B5%CF%83%CF%84%CE%AD%CF%88%CE%B1%CE%BD%CF%84%CE%BF%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.42> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%E1%BC%90%CF%80%CE%B5%CF%83%CF%84%CE%AD%CF%88%CE%B1%CE%BD%CF%84%CE%BF%255B1%255D> ;
     rdf:value "ἐπιστέφονται"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.43/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.43>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CF%80%CE%BF%CF%84%CE%BF%E1%BF%96%CE%BF%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.43> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CF%80%CE%BF%CF%84%CE%BF%E1%BF%96%CE%BF%255B1%255D> ;
     rdf:value "ποτοῖο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.44/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.44>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CE%BA%CF%81%CE%B7%CF%84%E1%BF%86%CF%81%CE%B1%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.44> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CE%BA%CF%81%CE%B7%CF%84%E1%BF%86%CF%81%CE%B1%CF%82%255B1%255D> ;
     rdf:value "κρητῆρες"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.45/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.45>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%E1%BC%90%CF%80%CE%B5%CF%83%CF%84%CE%AD%CF%88%CE%B1%CE%BD%CF%84%CE%BF%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.45> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AD%CF%86%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%255B1%255D-1.23%40%CF%84%CE%B9%CE%B8%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%E1%BC%90%CF%80%CE%B5%CF%83%CF%84%CE%AD%CF%88%CE%B1%CE%BD%CF%84%CE%BF%255B1%255D> ;
     rdf:value "ἐπιστεφανοῦσθαι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.46/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.46>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.46> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.470%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9> ;
     rdf:value "κοῦροι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.47/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.47>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471%40%CF%80%E1%BE%B6%CF%83%CE%B9%CE%BD%255B1%255D-1.471%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.47> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471%40%CF%80%E1%BE%B6%CF%83%CE%B9%CE%BD%255B1%255D-1.471%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1%255D> ;
     rdf:value "πᾶσιν ἐπαρξάμενοι δεπάεσσι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.48/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.48>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471%40%CF%80%E1%BE%B6%CF%83%CE%B9%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.48> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%BF%E1%BF%A6%CF%81%CE%BF%CE%B9%255B1%255D-1.23%40%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AC%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.471%40%CF%80%E1%BE%B6%CF%83%CE%B9%CE%BD%255B1%255D> ;
     rdf:value "πᾶσιν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.49/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.49>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.162%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%AF%CE%BD%255B1%255D-8.162%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%A4%CF%85%CE%B4%CE%B5%CE%AF%CE%B4%CE%B7%CF%82%255B1%255D-1.23%40%CF%84%CE%B9%CE%BC%E1%BE%B6%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.49> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%A4%CF%85%CE%B4%CE%B5%CE%AF%CE%B4%CE%B7%CF%82%255B1%255D-1.23%40%CF%84%CE%B9%CE%BC%E1%BE%B6%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8.162%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%AF%CE%BD%255B1%255D-8.162%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1%255D> ;
     rdf:value "κρέασι πλείοις δεπάεσσι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.50/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.50>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.3%40%CF%87%CF%81%CF%85%CF%83%CE%AD%CE%BF%CE%B9%CF%82%255B1%255D-4.3%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B1%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D>.
 
 <urn:cite:ogl:ahri.50> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B1%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.3%40%CF%87%CF%81%CF%85%CF%83%CE%AD%CE%BF%CE%B9%CF%82%255B1%255D-4.3%40%CE%B4%CE%B5%CF%80%CE%AC%CE%B5%CF%83%CF%83%CE%B9%255B1> ;
     rdf:value "χρυσέοις δεπάεσσι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.51/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.51>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.4%40%CE%B4%CE%B5%CE%B9%CE%B4%CE%AD%CF%87%CE%B1%CF%84%E1%BE%BD%255B1%255D-4.4%40%E1%BC%80%CE%BB%CE%BB%CE%AE%CE%BB%CE%BF%CF%85%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B1%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D>.
 
 <urn:cite:ogl:ahri.51> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B1%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.4%40%CE%B4%CE%B5%CE%B9%CE%B4%CE%AD%CF%87%CE%B1%CF%84%E1%BE%BD%255B1%255D-4.4%40%E1%BC%80%CE%BB%CE%BB%CE%AE%CE%BB%CE%BF%CF%85%CF%82%255B1%255D> ;
     rdf:value "δειδέχατ᾽ ἀλλήλουσ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.52/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.52>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.262%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%BF%CE%BD%255B1%255D-4.262%40%CE%B4%CE%AD%CF%80%CE%B1%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%88%CE%B3%CE%B1%CE%BC%CE%AD%CE%BC%CE%BD%CF%89%CE%BD%255B1%255D-1.23%40%CF%84%CE%B9%CE%BC%E1%BE%B7%255B1%255D>.
 
 <urn:cite:ogl:ahri.52> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%E1%BC%88%CE%B3%CE%B1%CE%BC%CE%AD%CE%BC%CE%BD%CF%89%CE%BD%255B1%255D-1.23%40%CF%84%CE%B9%CE%BC%E1%BE%B7%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.262%40%CF%80%CE%BB%CE%B5%E1%BF%96%CE%BF%CE%BD%255B1%255D-4.262%40%CE%B4%CE%AD%CF%80%CE%B1%CF%82%255B1%255D> ;
     rdf:value "πλείῳ δέπᾳ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.53/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.53>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.310%40%CF%84%CE%B5%CF%84%CE%B9%CE%BC%CE%AE%CE%BC%CE%B5%CF%83%CE%B8%CE%B1%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%9C%CE%B5%CE%BD%CE%AD%CE%BB%CE%B1%CE%BF%CF%82%255B1%255D-1.23%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.53> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%9C%CE%B5%CE%BD%CE%AD%CE%BB%CE%B1%CE%BF%CF%82%255B1%255D-1.23%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.310%40%CF%84%CE%B5%CF%84%CE%B9%CE%BC%CE%AE%CE%BC%CE%B5%CF%83%CE%B8%CE%B1%255B1%255D> ;
     rdf:value "τιμᾶται"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.54/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.54>;
-  oa:hasTarget <rn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.311%40%E1%BC%95%CE%B4%CF%81%E1%BF%83%255B1%255D-12.311%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%AF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%9C%CE%B5%CE%BD%CE%AD%CE%BB%CE%B1%CE%BF%CF%82%255B1%255D-1.23%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.54> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%9C%CE%B5%CE%BD%CE%AD%CE%BB%CE%B1%CE%BF%CF%82%255B1%255D-1.23%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <rn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.311%40%E1%BC%95%CE%B4%CF%81%E1%BF%83%255B1%255D-12.311%40%CE%BA%CF%81%CE%AD%CE%B1%CF%83%CE%AF%CE%BD%255B1%255D> ;
     rdf:value "ἕδρῃ κρέασιν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.55/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.55>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.23%40%CE%B3%CE%B5%CF%81%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.55> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.23%40%CE%B3%CE%B5%CF%81%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.321> ;
     rdf:value "Αἴας νώτοισι διηνεκέεσσι γεραίρεται"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.56/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.56>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.224%40%CE%B4%CE%B5%CE%AF%CE%B4%CE%B5%CE%BA%CF%84%E1%BE%BD%255B1%255D-9.224%40%E1%BC%88%CF%87%CE%B9%CE%BB%E1%BF%86%CE%B1%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B5%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D>.
 
 <urn:cite:ogl:ahri.56> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.23%40%CE%BF%E1%BC%B1%255B5%255D-1.23%40%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.224%40%CE%B4%CE%B5%CE%AF%CE%B4%CE%B5%CE%BA%CF%84%E1%BE%BD%255B1%255D-9.224%40%E1%BC%88%CF%87%CE%B9%CE%BB%E1%BF%86%CE%B1%255B1%255D> ;
     rdf:value "δείδεκτ᾽ Ἀχιλλέα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.57/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.57>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.569%40%CF%80%CE%AC%CF%8A%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255B1%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.57> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255B1%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.569%40%CF%80%CE%AC%CF%8A%CF%82%255B1%255D> ;
     rdf:value "παιδὸς"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.58/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.58>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.570%40%CE%BA%CE%B9%CE%B8%CE%AC%CF%81%CE%B9%CE%B6%CE%B5%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.58> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.570%40%CE%BA%CE%B9%CE%B8%CE%AC%CF%81%CE%B9%CE%B6%CE%B5%255B1%255D> ;
     rdf:value "κιθαρίζοντος"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.59/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.59>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.572%40%CE%BC%CE%BF%CE%BB%CF%80%E1%BF%87%255B1%255D-18.572%40%CF%83%CE%BA%CE%B1%CE%AF%CF%81%CE%BF%CE%BD%CF%84%CE%B5%CF%82%255B1%255D%20>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255B1%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.59> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.27%40%CE%BF%E1%BC%B6%CE%B4%CE%B5%255B1%255D-1.27%40%E1%BC%94%CF%83%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.572%40%CE%BC%CE%BF%CE%BB%CF%80%E1%BF%87%255B1%255D-18.572%40%CF%83%CE%BA%CE%B1%CE%AF%CF%81%CE%BF%CE%BD%CF%84%CE%B5%CF%82%255B1%255D%20> ;
     rdf:value "μολπῇ τε ἔσκαιρον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.60/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.60>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.13%40%CE%B1%E1%BD%90%CE%BB%E1%BF%B6%CE%BD%255B1%255D-10.13%40%E1%BC%90%CE%BD%CE%BF%CF%80%E1%BD%B4%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.28%40%E1%BD%81%255B1%255D-1.28%40%E1%BC%90%CE%BD%CE%BF%CF%80%E1%BD%B4%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.60> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.28%40%E1%BD%81%255B1%255D-1.28%40%E1%BC%90%CE%BD%CE%BF%CF%80%E1%BD%B4%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.13%40%CE%B1%E1%BD%90%CE%BB%E1%BF%B6%CE%BD%255B1%255D-10.13%40%E1%BC%90%CE%BD%CE%BF%CF%80%E1%BD%B4%CE%BD%255B1%255D> ;
     rdf:value "αὐλῶν συρίγγων τ᾽ ἐνοπὴν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.61/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.61>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.495%40%CE%B1%E1%BD%90%CE%BB%CE%BF%E1%BD%B6%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.28%40%CF%80%CE%BB%E1%BD%B4%CE%BD%255B1%255D-1.28%40%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%B5%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.61> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.28%40%CF%80%CE%BB%E1%BD%B4%CE%BD%255B1%255D-1.28%40%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%B5%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18.495%40%CE%B1%E1%BD%90%CE%BB%CE%BF%E1%BD%B6%255B1%255D> ;
     rdf:value "αὐλῶν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.62/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.62>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.173%40%CE%BA%CE%B9%CE%BD%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9%CE%BF%255B1%255D-14.173%40%CF%87%CE%B1%CE%BB%CE%BA%CE%BF%CE%B2%CE%B1%CF%84%E1%BD%B2%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.29%40%CE%B4%CF%85%CE%BD%CE%B1%CF%84%CF%89%CF%84%CE%AC%CF%84%CE%B7%255B1%255D-1.29%40%E1%BC%80%CF%85%CF%84%CE%BC%CE%AE%255B1%255D>.
 
 <urn:cite:ogl:ahri.62> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.29%40%CE%B4%CF%85%CE%BD%CE%B1%CF%84%CF%89%CF%84%CE%AC%CF%84%CE%B7%255B1%255D-1.29%40%E1%BC%80%CF%85%CF%84%CE%BC%CE%AE%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.173%40%CE%BA%CE%B9%CE%BD%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9%CE%BF%255B1%255D-14.173%40%CF%87%CE%B1%CE%BB%CE%BA%CE%BF%CE%B2%CE%B1%CF%84%E1%BD%B2%CF%82%255B1%255D> ;
     rdf:value "κινυμένου Διὸς χαλκοβατὲς"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.63/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.63>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.174>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.29%40%CE%B4%CF%85%CE%BD%CE%B1%CF%84%CF%89%CF%84%CE%AC%CF%84%CE%B7%255B1%255D-1.29%40%E1%BC%80%CF%85%CF%84%CE%BC%CE%AE%255B1%255D>.
 
 <urn:cite:ogl:ahri.63> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.29%40%CE%B4%CF%85%CE%BD%CE%B1%CF%84%CF%89%CF%84%CE%AC%CF%84%CE%B7%255B1%255D-1.29%40%E1%BC%80%CF%85%CF%84%CE%BC%CE%AE%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14.174> ;
     rdf:value "ἔμπης εἰς γαῖάν τε καὶ οὐρανὸν ἵκετ᾽ ἀυτμή"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.64/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.64>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3.392%40%CE%BA%CE%AC%CE%BB%CE%BB%CE%B5%CE%90%255B1%255D-3.392%40%CF%83%CF%84%CE%AF%CE%BB%CE%B2%CF%89%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.33%40%E1%BD%8D%CE%BC%CE%B7%CF%81%CE%BF%CF%82%255B1%255D-1.33%40%CF%83%CF%84%CE%AF%CE%BB%CE%B2%CF%89%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.64> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.33%40%E1%BD%8D%CE%BC%CE%B7%CF%81%CE%BF%CF%82%255B1%255D-1.33%40%CF%83%CF%84%CE%AF%CE%BB%CE%B2%CF%89%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3.392%40%CE%BA%CE%AC%CE%BB%CE%BB%CE%B5%CE%90%255B1%255D-3.392%40%CF%83%CF%84%CE%AF%CE%BB%CE%B2%CF%89%CE%BD%255B1%255D> ;
     rdf:value "κάλλει στίλβων"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.65/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.65>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:13.736>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.33%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B2%255D-1.33%40%CE%B4%CE%AD%CE%B4%CE%B7%CE%B5%255B1%255D>.
 
 <urn:cite:ogl:ahri.65> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.33%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B2%255D-1.33%40%CE%B4%CE%AD%CE%B4%CE%B7%CE%B5%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:13.736> ;
     rdf:value "πάντῃ γάρ σε περὶ στέφανος πολέμοιο δέδηε"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.66/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.66>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.486%40%CE%BF%E1%BD%90%CE%BA%255B1%255D-9.486%40%E1%BC%84%CE%BB%CE%BB%E1%BF%B3%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B1%255D-1.43%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B2%255D>.
 
 <urn:cite:ogl:ahri.66> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B1%255D-1.43%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B2%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.486%40%CE%BF%E1%BD%90%CE%BA%255B1%255D-9.486%40%E1%BC%84%CE%BB%CE%BB%E1%BF%B3%255B1%255D> ;
     rdf:value "οὐκ ἤθελον ἅμ᾽ ἄλλῳ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.67/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.67>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.487%40%E1%BC%90%CE%BD%255B1%255D-9.487%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B1%255D-1.43%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B2%255D>.
 
 <urn:cite:ogl:ahri.67> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CF%86%CE%B7%CF%83%E1%BD%B6%255B1%255D-1.43%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B2%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.487%40%E1%BC%90%CE%BD%255B1%255D-9.487%40%CF%80%CE%AC%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%255B1%255D> ;
     rdf:value "ἐν μεγάροισι πάσασθαι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.68/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.68>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.641%40%CE%BD%E1%BF%A6%CE%BD%20%CE%B4%E1%BD%B4%255B1%255D-24.641%40%CF%80%CE%B1%CF%83%CE%AC%CE%BC%CE%B7%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CE%BA%CE%B1%E1%BD%B6%255B2%255D-1.43%40%CF%80%CE%B1%CF%83%CE%AC%CE%BC%CE%B7%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.68> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CE%BA%CE%B1%E1%BD%B6%255B2%255D-1.43%40%CF%80%CE%B1%CF%83%CE%AC%CE%BC%CE%B7%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:24.641%40%CE%BD%E1%BF%A6%CE%BD%20%CE%B4%E1%BD%B4%255B1%255D-24.641%40%CF%80%CE%B1%CF%83%CE%AC%CE%BC%CE%B7%CE%BD%255B1%255D> ;
     rdf:value "νῦν δὴ καὶ σίτου πασάμην"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.69/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.69>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.43%40%CF%80%CF%85%CF%81%CE%B3%CE%B7%CE%B4%E1%BD%B8%CE%BD%255B1%255D-12.43%40%E1%BC%80%CF%81%CF%84%CF%8D%CE%BD%CE%B1%CE%BD%CF%84%CE%B5%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.43%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.69> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.43%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.43%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.43%40%CF%80%CF%85%CF%81%CE%B3%CE%B7%CE%B4%E1%BD%B8%CE%BD%255B1%255D-12.43%40%E1%BC%80%CF%81%CF%84%CF%8D%CE%BD%CE%B1%CE%BD%CF%84%CE%B5%CF%82%255B1%255D> ;
     rdf:value "πυργηδὸν σφέας αὐτοὺς ἀρτύνουσι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.70/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.70>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.44%40%E1%BC%80%CE%BD%CF%84%CE%AF%CE%BF%CE%BD%255B1%255D-12.44%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.44%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.70> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BA%CE%B1%E1%BD%B6%255B6%255D-1.44%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12.44%40%E1%BC%80%CE%BD%CF%84%CE%AF%CE%BF%CE%BD%255B1%255D-12.44%40%E1%BC%80%CE%BA%CE%BF%CE%BD%CF%84%CE%AF%CE%B6%CE%BF%CF%85%CF%83%CE%B9%255B1%255D> ;
     rdf:value "ἀντίον ἱστάμενοι ἀκοντίζουσιν"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.71/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.71>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.572%40%E1%BC%B1%CE%B4%CF%81%E1%BF%B6%255B1%255D-10.572%40%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%E1%BF%83%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BF%E1%BC%B1%255B2%255D-1.44%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.71> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BF%E1%BC%B1%255B2%255D-1.44%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.572%40%E1%BC%B1%CE%B4%CF%81%E1%BF%B6%255B1%255D-10.572%40%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%E1%BF%83%255B1%255D> ;
     rdf:value "ἱδρῶ πολλὸν ἀπενίζοντο θαλάσσῃ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.72/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.72>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.573%40%CE%BA%CE%BD%CE%AE%CE%BC%CE%B1%CF%82%255B1%255D-10.571%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BF%E1%BC%B1%255B2%255D-1.44%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D>.
 
 <urn:cite:ogl:ahri.72> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%CE%BF%E1%BC%B1%255B2%255D-1.44%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.573%40%CE%BA%CE%BD%CE%AE%CE%BC%CE%B1%CF%82%255B1%255D-10.571%40%CE%BC%CE%B7%CF%81%CE%BF%CF%8D%CF%82%255B1%255D> ;
     rdf:value "κνήμας ἠδὲ λόφον ἀμφί τε μηρούς"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.73/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.73>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.576>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.73> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.576> ;
     rdf:value "ἐς ἀσαμίνθους βάντες ἐυξέστας λούσαντο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.74/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.74>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.577%40%CE%BA%CE%B1%E1%BD%B6%255B1%255D-10.577%40%E1%BC%90%CE%BB%CE%B1%CE%AF%E1%BF%B3%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.74> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.577%40%CE%BA%CE%B1%E1%BD%B6%255B1%255D-10.577%40%E1%BC%90%CE%BB%CE%B1%CE%AF%E1%BF%B3%255B1%255D> ;
     rdf:value "καὶ ἀλειψάμενοι λίπ᾽ ἐλαίῳ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.75/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.75>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.578%40%CE%B4%CE%B5%CE%AF%CF%80%CE%BD%E1%BF%B3%255B1%255D-10.578%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.75> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.44%40%E1%BC%90%CF%82%255B1%255D-1.44%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10.578%40%CE%B4%CE%B5%CE%AF%CF%80%CE%BD%E1%BF%B3%255B1%255D-10.578%40%E1%BC%90%CF%86%CE%B9%CE%B6%CE%B1%CE%BD%CE%AD%CF%84%CE%B7%CE%BD%255B1%255D> ;
     rdf:value "δείπνῳ ἐφιζανέτην"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.76/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.76>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.630%40%CE%B4%E1%BD%B2%255B1%255D-11.630%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.45%40%E1%BC%80%CE%BB%CE%BB%E1%BD%B0%255B1%255D-1.45%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D>.
 
 <urn:cite:ogl:ahri.76> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.45%40%E1%BC%80%CE%BB%CE%BB%E1%BD%B0%255B1%255D-1.45%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.630%40%CE%B4%E1%BD%B2%255B1%255D-11.630%40%E1%BD%84%CF%88%CE%BF%CE%BD%255B1%255D> ;
     rdf:value "δὲ κρόμυον ποτοῦ ὄψον"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.77/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.77>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21.362%40%E1%BD%A1%CF%82%255B1%255D-21.362%40%CE%B6%CE%B5%E1%BF%96%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.46%40%E1%BD%A1%CF%82%255B2%255D-1.46%40%CF%83%CE%B9%CE%AC%CE%BB%CE%BF%CE%B9%CE%BF%255B1%255D>.
 
 <urn:cite:ogl:ahri.77> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.46%40%E1%BD%A1%CF%82%255B2%255D-1.46%40%CF%83%CE%B9%CE%AC%CE%BB%CE%BF%CE%B9%CE%BF%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21.362%40%E1%BD%A1%CF%82%255B1%255D-21.362%40%CE%B6%CE%B5%E1%BF%96%255B1%255D> ;
     rdf:value "ὡς δὲ λέβης ζεῖ"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.78/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.78>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21.363>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.46%40%E1%BD%A1%CF%82%255B2%255D-1.46%40%CF%83%CE%B9%CE%AC%CE%BB%CE%BF%CE%B9%CE%BF%255B1%255D>.
 
 <urn:cite:ogl:ahri.78> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.46%40%E1%BD%A1%CF%82%255B2%255D-1.46%40%CF%83%CE%B9%CE%AC%CE%BB%CE%BF%CE%B9%CE%BF%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21.363> ;
     rdf:value "κνίσσῃ μελδόμενος ἁπαλοτρεφέος σιάλοιο"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.79/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.79>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.467>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:1.56%40%CE%BD%E1%BF%86%CE%B5%CF%82%255B1%255D-1.56%40%E1%BC%84%CE%B3%CE%BF%CF%85%CF%83%CE%B1%CE%B9%255B1%255D>.
 
 <urn:cite:ogl:ahri.79> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:1.56%40%CE%BD%E1%BF%86%CE%B5%CF%82%255B1%255D-1.56%40%E1%BC%84%CE%B3%CE%BF%CF%85%CF%83%CE%B1%CE%B9%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7.467> ;
     rdf:value "νῆες δ᾽ ἐκ Λήμνοιο παρέστασαν οἶνον ἄγουσαι"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cite:ogl:ahri.80/oa> a oa:Annotation;
   oa:hasBody <urn:cite:ogl:ahri.80>;
-  oa:hasTarget <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.260%40%E1%BC%94%CF%80%CE%B5%CE%B9%CF%84%CE%B1%255B1%255D-6.260%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D>.
+  oa:hasTarget <urn:cts:greekLit:tlg0008.tlg001.berti:2.1%40%CF%80%CE%B1%CF%81%CE%B5%CF%84%CF%85%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%E1%BF%B6%CE%BD%255B1%255D-2.1%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D>.
 
 <urn:cite:ogl:ahri.80> rdf:type <http://lawd.info/ontology/TextReuse> ;
     <http://lawd.info/ontology/reuseIn> <urn:cts:greekLit:tlg0008.tlg001.berti:2.1%40%CF%80%CE%B1%CF%81%CE%B5%CF%84%CF%85%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%E1%BF%B6%CE%BD%255B1%255D-2.1%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D> ;
     <http://lawd.info/ontology/reuseFrom> <urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6.260%40%E1%BC%94%CF%80%CE%B5%CE%B9%CF%84%CE%B1%255B1%255D-6.260%40%CF%80%CE%AF%E1%BF%83%CF%83%CE%B8%CE%B1%255B1%255D> ;
     rdf:value "ἔπειτα δὲ καὐτὸς ὀνήσεαι, αἴ κε πίῃσθα"@grc ; 
-    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:75b81f18-4a26-4db7-a79c-65207bf444b1> .
+    <http://www.w3.org/ns/prov#qualifiedAssociation> <urn:uuid:e11b29ae-42dd-42aa-9662-7d431752dc54> .
 
 <urn:cts:greekLit:tlg0008.tlg001.berti>  rdf:type <http://lawd.info/ontology/WrittenWork> ;
     <http://lawd.info/ontology/embodies> <urn:cts:greekLit:tlg0008.tlg001> .
